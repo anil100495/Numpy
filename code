@@ -1,4 +1,5 @@
 import numpy as np
 np.array([2,9])
+np.array([1,4,5])
 
 
